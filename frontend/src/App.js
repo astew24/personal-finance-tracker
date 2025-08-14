@@ -131,3 +131,4 @@ function App() {
 
 export default App;
 // Add dashboard widgets
+// Add mobile responsiveness

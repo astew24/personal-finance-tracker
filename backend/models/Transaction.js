@@ -338,3 +338,4 @@ transactionSchema.methods.removeTag = function(tag) {
 };
 
 module.exports = mongoose.model('Transaction', transactionSchema);
+// Add database indexing

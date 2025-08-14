@@ -138,3 +138,4 @@ module.exports = app;
 // Add budget planning functionality
 // Implement goal tracking
 // Implement connection pooling
+// Add rate limiting

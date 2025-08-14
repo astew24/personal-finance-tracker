@@ -135,3 +135,4 @@ process.on('SIGINT', () => {
 });
 
 module.exports = app;
+// Add budget planning functionality

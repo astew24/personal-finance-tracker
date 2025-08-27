@@ -140,3 +140,4 @@ module.exports = app;
 // Implement JWT user authentication
 // Add basic transaction CRUD operations
 // Add budget planning system
+// Add recurring transaction detection

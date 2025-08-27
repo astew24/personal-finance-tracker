@@ -139,3 +139,4 @@ module.exports = app;
 // Implement goal tracking
 // Implement JWT user authentication
 // Add basic transaction CRUD operations
+// Add budget planning system
